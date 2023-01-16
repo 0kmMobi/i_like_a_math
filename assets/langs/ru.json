@@ -1,0 +1,12 @@
+{
+    "solutionNotAvailableInDemo": "Решения нет в демо",
+    "noSolution": "нет решения",
+    "appTitle": "Числомания",
+    "shareSectTitle": "Удиви знакомых знаниями математики с '{}'. Доступно в GooglePlay: {}",
+    "titleSectDigit": "Любая\nцифра\nот 1 до 9",
+    "shareSectDigit": "Напиши любую цифру от 1 до 9.",
+    "titleSectNumber": "Любое\n3х-значное\nчисло",
+    "shareSectNumber": "Напиши любое 3х-значное число (от 100 до 999).",
+    "titleSectSolution": "Решение",
+    "shareSectSolution": "Это выражение равное числу {} использует только цифру {}"
+}

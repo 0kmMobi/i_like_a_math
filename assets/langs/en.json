@@ -1,0 +1,12 @@
+{
+    "solutionNotAvailableInDemo": "Solution N/A in demo",
+    "noSolution": "no solution",
+    "appTitle": "I \u2764 a Math",
+    "shareSectTitle": "Surprise your friends with the knowledge of mathematics with '{}'. Get it on GooglePlay: {}",
+    "titleSectDigit": "Any\ndigit\nfrom 1 to 9",
+    "shareSectDigit": "Write any digit from 1 to 9.",
+    "titleSectNumber": "Any\nthree digit\nnumber",
+    "shareSectNumber": "Write any three-digit number (from 100 to 999).",
+    "titleSectSolution": "Solution",
+    "shareSectSolution": "This expression is equal to the number {} and uses only the digit {}."
+}
