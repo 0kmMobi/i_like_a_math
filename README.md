@@ -1,12 +1,13 @@
 # I LIKE A MATH
 
--[The educational and entertaining app for math lovers](https://play.google.com/store/apps/details?id=mobi.nullkm.digitmania)
+The educational and entertaining app for math lovers
+-[https://play.google.com/store/apps/details?id=mobi.nullkm.digitmania](https://play.google.com/store/apps/details?id=mobi.nullkm.digitmania)
 
-## Getting Started
+## Description
 
 This application allows you to get the shortest (by length) mathematical expression for any three-digit number (from 100 to 999), which uses only 1 digit, numbers made up of only this digit and any mathematical operations.
 
-| <img width="480" src="/_readmi-res/scr01.png"> | <img width="480" src="/_readmi-res/scr02.png"> |
+| <img height="480" src="/_readmi-res/scr01.png"> | <img height="480" src="/_readmi-res/scr02.png"> |
 
 The application can share messages (for example, through any messenger) with an invitation to invent any digit and any three-digit number. 
 After that, you can share an image of a mathematical expression equal to the invented number and using only the invented digit.
