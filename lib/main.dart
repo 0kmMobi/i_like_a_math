@@ -1,3 +1,4 @@
+
 import 'package:easy_localization/easy_localization.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
@@ -15,7 +16,7 @@ void main() async {
       Locale('en'),
       Locale('ru')
     ],
-    startLocale: const Locale('ru'),
+    startLocale: const Locale('en'),
     useOnlyLangCode: true,
     path: 'assets/langs',
     // assetLoader: JsonAssetLoader(),
